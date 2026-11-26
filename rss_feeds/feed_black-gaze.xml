@@ -5,14 +5,6 @@
 <link>https://bandcamp.com/discover/black-gaze/digital?s=new</link>
 <description>New black-gaze releases</description>
 <item>
-<title>Echoes – A Quiet Unrest</title>
-<link>https://echoescrust.bandcamp.com/album/a-quiet-unrest-2</link>
-<guid isPermaLink="true">https://echoescrust.bandcamp.com/album/a-quiet-unrest-2</guid>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
-<enclosure url="https://f4.bcbits.com/img/a2504405381_10.jpg" length="0" type="image/jpeg" />
-<description><![CDATA[<img src="https://f4.bcbits.com/img/a2504405381_10.jpg" /><br/>Echoes – A Quiet Unrest]]></description>
-</item>
-<item>
 <title>Titan Scream – Ocean of Corn: Midwest Gothic Vol. II</title>
 <link>https://titanscream.bandcamp.com/album/ocean-of-corn-midwest-gothic-vol-ii</link>
 <guid isPermaLink="true">https://titanscream.bandcamp.com/album/ocean-of-corn-midwest-gothic-vol-ii</guid>
@@ -779,6 +771,14 @@
 <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
 <enclosure url="https://f4.bcbits.com/img/a603235936_10.jpg" length="0" type="image/jpeg" />
 <description><![CDATA[<img src="https://f4.bcbits.com/img/a603235936_10.jpg" /><br/>Skorbvstr – Hanshi]]></description>
+</item>
+<item>
+<title>Anima Hereticae – Ov Behest</title>
+<link>https://animahereticae.bandcamp.com/album/ov-behest</link>
+<guid isPermaLink="true">https://animahereticae.bandcamp.com/album/ov-behest</guid>
+<pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+<enclosure url="https://f4.bcbits.com/img/a3236467720_10.jpg" length="0" type="image/jpeg" />
+<description><![CDATA[<img src="https://f4.bcbits.com/img/a3236467720_10.jpg" /><br/>Anima Hereticae – Ov Behest]]></description>
 </item>
 </channel>
 </rss>
